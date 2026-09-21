@@ -20,12 +20,14 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -37,6 +39,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Queue
@@ -51,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
