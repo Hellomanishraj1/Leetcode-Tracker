@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -85,17 +86,20 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
