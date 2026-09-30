@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Breadth-First Search
@@ -88,6 +90,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -102,6 +105,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -117,4 +121,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
