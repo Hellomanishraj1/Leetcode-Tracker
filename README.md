@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Tree
@@ -96,6 +98,7 @@
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -104,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
@@ -113,6 +117,7 @@
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
