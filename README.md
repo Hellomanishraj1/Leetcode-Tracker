@@ -100,6 +100,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -121,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## DP on Trees
@@ -132,6 +134,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +145,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +154,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
