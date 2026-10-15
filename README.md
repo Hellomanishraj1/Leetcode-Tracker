@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -99,6 +101,7 @@
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -120,6 +123,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -134,6 +138,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -144,16 +149,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Math
 | Problem Name | Difficulty |
