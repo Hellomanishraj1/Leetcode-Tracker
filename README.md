@@ -104,6 +104,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/1046-last-stone-weight/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -152,6 +153,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
