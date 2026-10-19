@@ -176,6 +176,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -185,4 +186,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
