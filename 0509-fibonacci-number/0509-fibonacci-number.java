@@ -1,19 +1,18 @@
 class Solution {
-    int [] dp;
-    int fibo(int n){
+   
+    int fibo(int n,int [] dp){
         if(n<2){
             return n;
         }
         if(dp[n]!=0){
-            return dp[n];
+             return dp[n];
         }
-        int ans =fibo(n-1)+fibo(n-2);
-        dp[n]=ans ;
-        return ans ;
+         dp[n] =fibo(n-1,dp)+fibo(n-2,dp);
+        return dp[n];
     }
     public int fib(int n) {
-        dp=new int [n+1];
-        return fibo(n);
+        int[] dp=new int [n+1];
+        return fibo(n,dp);
         
     }
 }
