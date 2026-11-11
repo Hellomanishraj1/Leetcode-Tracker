@@ -111,6 +111,7 @@
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/1046-last-stone-weight/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -190,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
