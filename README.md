@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -190,6 +191,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Recursion
