@@ -5,7 +5,7 @@ class Solution {
         int ans =helper(0,0,m,n,dp);
         return ans ;
     }
-int helper(int r,int c,int m,int n,int [] [] dp){
+int helper(int r,int c,Integer m,Integer n,int [] [] dp){
     if(r>=m || c>=n){
         return 0;
     }
