@@ -105,6 +105,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0198-house-robber/) | Medium |
@@ -195,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
@@ -214,4 +216,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0062-unique-paths/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Hellomanishraj1/Leetcode-Tracker/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
